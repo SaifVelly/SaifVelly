@@ -6,4 +6,4 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SaifVelly)](https://git.io/streak-stats)
 
-.
+![Visitor Count](https://profile-counter.glitch.me/SaifVelly/count.svg)
